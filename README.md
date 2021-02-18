@@ -1,2 +1,3 @@
 # grokking_algorithms_exercises
-Training coding with Python and C.
+
+Book: Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People by Aditya Y. Bhargava
