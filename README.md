@@ -4,20 +4,20 @@
 
 **1. Introduction to algorithms -** [BinarySearch.py](https://github.com/deborafaria01/grokking_algorithms_exercises/blob/main/BinarySearch.py)
 
-**2. Selection sort**
+****2. Selection sort****
 
-***3. Recursion***
+****3. Recursion****
 
 ****4. Quicksort****
 
 ****5. Hash tables****
 
-6. Breadth first search
+****6. Breadth first search****
 
-7. Dijkstras algorithm
+****7. Dijkstras algorithm****
 
-8. Greedy algorithms
+****8. Greedy algorithms****
 
-9. Dynamic programming
+****9. Dynamic programming****
 
-10. Knn
+****10. Knn****
