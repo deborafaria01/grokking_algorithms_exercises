@@ -1,6 +1,6 @@
 ## Book: Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People by Aditya Y. Bhargava
 
-### Summary
+### Summary :snake:
 
 **1. Introduction to algorithms -** [BinarySearch.py](https://github.com/deborafaria01/grokking_algorithms_exercises/blob/main/BinarySearch.py)
 
