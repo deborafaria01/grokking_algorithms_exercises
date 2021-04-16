@@ -14,7 +14,7 @@ def pesquisa_binaria(lista, item):
                 baixo = meio + 1
     return None
 
-minha_lista = [1, 3, 6, 7, 11]
+minha_lista = [1, 3, 6, 7, 9]
 
 print pesquisa_binaria(minha_lista, 3) # => 1
 print pesquisa_binaria(minha_lista, -2) # => None        
