@@ -12,11 +12,11 @@
 
 **5. Hash tables -** [Hash Tables](https://github.com/deborafaria01/grokking_algorithms_exercises/tree/main/Hash%20Tables)
 
-**6. Breadth first search -** [BreadthFirstSearch.py] (https://github.com/deborafaria01/grokking_algorithms_exercises/blob/main/Breadth-first_search.py)
+**6. Breadth first search -** [BreadthFirstSearch.py](https://github.com/deborafaria01/grokking_algorithms_exercises/blob/main/Breadth-first_search.py)
 
-**7. Dijkstras algorithm -** [DijkstrasAlgorithm.py] (https://github.com/deborafaria01/grokking_algorithms_exercises/blob/main/Dijkstras_algorithm.py)
+**7. Dijkstras algorithm -** [DijkstrasAlgorithm.py](https://github.com/deborafaria01/grokking_algorithms_exercises/blob/main/Dijkstras_algorithm.py)
 
-**8. Greedy algorithms -** [Greedy Algorithms] (https://github.com/deborafaria01/grokking_algorithms_exercises/tree/main/Greedy%20Algorithms)
+**8. Greedy algorithms -** [Greedy Algorithms](https://github.com/deborafaria01/grokking_algorithms_exercises/tree/main/Greedy%20Algorithms)
 
-**9. Dynamic programming -** [Dynamic Programming] (https://github.com/deborafaria01/grokking_algorithms_exercises/tree/main/Dynamic%20Programming)
+**9. Dynamic programming -** [Dynamic Programming](https://github.com/deborafaria01/grokking_algorithms_exercises/tree/main/Dynamic%20Programming)
 
